@@ -13,7 +13,7 @@ engines:
         javascript:
 ratings:
   paths:
-  - "**.js"
+  - "packages/**.js"
 exclude_paths:
 - config/**/*
 - tests/**/*
